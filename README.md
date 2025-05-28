@@ -13,7 +13,7 @@ This project implements a retrieval-augmented question-answering system using Op
 ## System Architecture
 
 The system uses the following main components:
-- `ChatOpenAI`: For generating responses to queries using OpenAI's GPT-3.5-turbo.
+- `ChatOpenAI`: For generating responses to queries using OpenAI's GPT-4o.
 - `OpenAIEmbeddings`: For embedding text using a model optimized for performance.
 - `PyMuPDFLoader`: For loading and processing PDF documents.
 - `Qdrant`: For storing and retrieving text vector embeddings.
@@ -32,8 +32,8 @@ The system uses the following main components:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Mona3087/pdf-rag.git
-   cd pdf-rag
+   git clone https://github.com/Mona3087/AICon2025.git
+   cd AICon2025
 
 2. **Run the Application locally**
    ```bash
