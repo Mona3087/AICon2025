@@ -1,4 +1,4 @@
-# Document-based Question Answering System
+# AICon2025 Demo App
 
 This project implements a retrieval-augmented question-answering system using OpenAI's models and the Qdrant vector database. It is designed to process and understand large documents, specifically for handling queries related to specific topics extracted from a loaded PDF document.
 
